@@ -1,4 +1,4 @@
-package com.example.testingjava;
+package com.example.testingjava.junit4;
 
 import org.testcontainers.containers.PostgreSQLContainer;
 
